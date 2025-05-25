@@ -1,5 +1,5 @@
 {
-  "name": "geek/otp",
+  "name": "geekmac/otp",
   "description": "Laravel package to send and verify OTP with resend limitation",
   "type": "library",
   "license": "MIT",
